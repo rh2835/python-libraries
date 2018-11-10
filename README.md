@@ -1,3 +1,9 @@
 # python-libraries
-## This repositary contains data analysis exercises using these Python libraries and packages: Numpy, Pandas, Matplotlib, Seaborn, Plotly, Cufflinks.
+#### This repositary contains data analysis exercises using the following Python libraries and packages: 
+#### Numpy
+#### Pandas
+#### Matplotlib
+#### Seaborn
+#### Plotly
+#### Cufflinks
 
