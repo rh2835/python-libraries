@@ -7,4 +7,5 @@ This repositary contains data analysis exercises using the following Python libr
 * Plotly
 * Cufflinks
 * SciPy
+* json
 
