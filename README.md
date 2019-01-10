@@ -8,4 +8,5 @@ This repositary contains data analysis exercises using the following Python libr
 * Cufflinks
 * SciPy
 * json
+* re
 
